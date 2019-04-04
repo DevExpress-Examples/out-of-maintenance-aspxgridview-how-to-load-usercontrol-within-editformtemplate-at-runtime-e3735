@@ -4,8 +4,8 @@
 * [PersistentObjects.cs](./CS/WebSite/App_Code/PersistentObjects.cs) (VB: [PersistentObjects.vb](./VB/WebSite/App_Code/PersistentObjects.vb))
 * [XpoHelper.cs](./CS/WebSite/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/WebSite/App_Code/XpoHelper.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [EditUserControl.ascx](./CS/WebSite/EditUserControl.ascx) (VB: [EditUserControl.ascx.vb](./VB/WebSite/EditUserControl.ascx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [EditUserControl.ascx](./CS/WebSite/EditUserControl.ascx) (VB: [EditUserControl.ascx](./VB/WebSite/EditUserControl.ascx))
 * [EditUserControl.ascx.cs](./CS/WebSite/EditUserControl.ascx.cs) (VB: [EditUserControl.ascx.vb](./VB/WebSite/EditUserControl.ascx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to load UserControl within EditFormTemplate at runtime 
