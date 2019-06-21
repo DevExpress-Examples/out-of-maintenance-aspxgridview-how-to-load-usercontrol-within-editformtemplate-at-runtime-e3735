@@ -9,6 +9,9 @@
 * [EditUserControl.ascx.cs](./CS/WebSite/EditUserControl.ascx.cs) (VB: [EditUserControl.ascx.vb](./VB/WebSite/EditUserControl.ascx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to load UserControl within EditFormTemplate at runtime 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3735/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to add editors within the ASPxGridView's EditFormTemplateContainer programmatically by implementing the ITemplate interface. </p><p>See also:<br />
